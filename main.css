@@ -1,0 +1,21 @@
+.navbar{
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: white;
+}
+body{
+    background-color: skyblue;
+}
+
+.theform{
+    background-color: white;
+    border-style: solid;
+    border-radius: 5px;
+    margin: 100px 500px 100px 500px;
+}
+p{
+    text-align: left;
+}
+button{
+    text-align: center;
+}
