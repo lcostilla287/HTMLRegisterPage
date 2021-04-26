@@ -2,6 +2,10 @@
     display: flex;
     flex-direction: row-reverse;
     background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    
 }
 body{
     background-color: skyblue;
@@ -10,6 +14,7 @@ body{
 .theform{
     background-color: white;
     border-style: solid;
+    border-width: 1px;
     border-radius: 5px;
     margin: 100px 500px 100px 500px;
     width: 190px;
@@ -34,4 +39,20 @@ button{
 img{
     height: 30px;
     width: 30px;
+}
+.navcolor button{
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.theform button{
+    border-radius: 5px;
+    padding-left: 62px;
+    padding-right: 62px;
+}
+header{
+    width: 100%;
+    margin-top: 0%;
 }
